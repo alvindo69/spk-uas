@@ -1,4 +1,5 @@
 Tugas UAS SPK
+
 Nama : Alvindo Acmaludin Putra
 NIM : 201011400555
 Kelas : 07TPLP012
